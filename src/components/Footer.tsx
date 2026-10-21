@@ -12,7 +12,7 @@ export default function Footer() {
             <Link href="/" className="flex items-center gap-3 group">
               <div className="relative w-10 h-10 rounded-full overflow-hidden border border-white/10 shadow-md">
                 <Image
-                  src="/images/Logo IG Aksiva.png"
+                  src="/images/logo.png"
                   alt="Aksiva Studio"
                   width={40}
                   height={40}

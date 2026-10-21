@@ -39,7 +39,7 @@ export default function Navbar() {
         <Link href="/" className="flex items-center gap-3 group">
           <div className="relative w-9 h-9 rounded-full overflow-hidden shadow-md shadow-aksiva-orange/20 transition-transform group-hover:scale-105 border border-white/10">
             <Image
-              src="/images/Logo IG Aksiva.png"
+              src="/images/logo.png"
               alt="Aksiva Studio Logo"
               width={36}
               height={36}
